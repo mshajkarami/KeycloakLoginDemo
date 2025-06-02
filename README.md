@@ -79,7 +79,7 @@ Make sure the redirect URI matches exactly in both the Android code and Keycloak
 This project only covers login and token exchange. You can later use the token to access the userinfo endpoint.
 
 🧑‍💻 Developer
-Mohamad Saleh Haj Karami
+MohamadSaleh HajKarami
 
 
 
